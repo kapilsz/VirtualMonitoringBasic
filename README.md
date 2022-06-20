@@ -15,3 +15,16 @@ you can access it by simply putting below link on browser
 
 
 http://kapilsz.pythonanywhere.com/ 
+
+
+
+.
+![](/images/Slide3.PNG)
+![](/images/Slide4.PNG)
+![](/images/Slide5.PNG)
+![](/images/Slide6.PNG)
+![](/images/Slide7.PNG)
+![](/images/Slide8.PNG)
+![](/images/Slide9.PNG)
+![](/images/Slide10.PNG)
+![](/images/Slide11.PNG)
