@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable-v24/gradient9.xml" value="0.5409836065573771" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable-v24/ic_baseline_autorenew_24.xml" value="0.3185011709601874" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable-v24/rounded_button_2.xml" value="0.5409836065573771" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/bg_charts.xml" value="0.45901639344262296" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/bg_home_temp.xml" value="0.2175925925925926" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/bg_tablayout_home.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/bg_tablayout_rect.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/ic_baseline_insights_24.xml" value="0.19814814814814816" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/ic_menu_camera.xml" value="0.15104166666666666" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/side_nav_bar.xml" value="0.21388888888888888" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/tab_selector_home.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/drawable/tab_selector_home_bottom.xml" value="0.22153846153846155" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout-home_main_tablayout/fragment_home_temp_live.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_home_co2.xml" value="1.0" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_home_ethylene.xml" value="0.33" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_home_humidity.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_home_temp.xml" value="0.33" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_home_visuals.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_main2.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_main3.xml" value="0.5046838407494145" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/activity_show_all.xml" value="0.5046838407494145" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/app_bar_main.xml" value="0.7129629629629629" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/app_bar_main2.xml" value="0.5046838407494145" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/content_main.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_co2_live.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_co2_monthly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_co2_weekly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_co2_yearly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_ethylene_live.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_ethylene_monthly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_ethylene_weekly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_ethylene_yearly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_humidity_live.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_humidity_monthly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_humidity_weekly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_humidity_yearly.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_temp_live.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_temp_monthly.xml" value="0.21041666666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_temp_weekly.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/fragment_home_temp_yearly.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/home_fragment.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/insights_fragment.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/item_layout.xml" value="0.5046838407494145" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/layout1.xml" value="0.1" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/logout_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/nav_header_main.xml" value="0.25" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/profile_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/refer_fragment.xml" value="0.67" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/setting_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/layout/share_fragment.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/menu/activity_main_drawer.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/menu/main_activity2.xml" value="0.5" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.15833333333333333" />
+        <entry key="..\:/Users/HP/Downloads/MyApp/app/src/main/res/xml/provider_paths.xml" value="0.5046838407494145" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

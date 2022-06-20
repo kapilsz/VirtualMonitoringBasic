@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.home.home_visuals">
+
+    <com.github.mikephil.charting.charts.LineChart
+        android:id="@+id/chart1"
+        android:layout_width="329dp"
+        android:layout_height="182dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/spinner1">
+
+    </com.github.mikephil.charting.charts.LineChart>
+
+    <TextView
+        android:id="@+id/headingdata"
+        android:layout_width="231dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="20dp"
+        android:text="Current and Peak Values"
+        android:textColor="#F00"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/chart1" />
+
+    <TextView
+        android:id="@+id/xValue"
+        android:layout_width="175dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/headingdata"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:autoText="false"
+        android:shadowColor="#710E0E"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/headingdata" />
+
+    <TextView
+        android:id="@+id/yValue"
+        android:layout_width="175dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/xValue"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/xValue" />
+
+    <TextView
+        android:id="@+id/zValue"
+        android:layout_width="175dp"
+        android:layout_height="20dp"
+        android:layout_below="@+id/yValue"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/yValue" />
+
+    <TextView
+        android:id="@+id/xPeak"
+        android:layout_width="175sp"
+        android:layout_height="20sp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:text="   xPeak = 9.89"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toEndOf="@+id/xValue"
+        app:layout_constraintTop_toBottomOf="@+id/headingdata" />
+
+    <TextView
+        android:id="@+id/yPeak"
+        android:layout_width="175sp"
+        android:layout_height="20sp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="48dp"
+        android:text="   yPeak = 6.85"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toEndOf="@+id/xValue"
+        app:layout_constraintTop_toBottomOf="@+id/headingdata" />
+
+    <TextView
+        android:id="@+id/zPeak"
+        android:layout_width="175sp"
+        android:layout_height="20sp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="80dp"
+        android:text="   zPeak = 5.32"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.523"
+        app:layout_constraintStart_toEndOf="@+id/xValue"
+        app:layout_constraintTop_toBottomOf="@+id/headingdata" />
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="10dp"
+        android:minHeight="48dp"
+        android:spinnerMode="dropdown"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </Spinner>
+</androidx.constraintlayout.widget.ConstraintLayout>

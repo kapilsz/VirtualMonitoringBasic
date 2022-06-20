@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    //first menu
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_menu_24"
+            android:title="Home"></item>
+
+        <item
+            android:id="@+id/nav_insights"
+            android:icon="@drawable/ic_baseline_insights_24"
+            android:title="Insights"></item>
+
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title="Setting"></item>
+
+    </group>
+
+    //second menu
+
+    <group android:checkableBehavior="single">
+        <item android:title="Authentication">
+            <menu>
+                <item
+                    android:id="@+id/nav_profile"
+                    android:icon="@drawable/ic_baseline_profile_24"
+                    android:title="Profile" />
+
+
+
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_baseline_login_24"
+                    android:title="Logout" />
+            </menu>
+        </item>
+
+    </group>
+
+    // third menu
+
+    <item android:title="Sharing">
+        <menu>
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_baseline_share_24"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_refer"
+                android:icon="@drawable/ic_baseline_room_preferences_24"
+                android:title="Refer a Friend" />
+        </menu>
+
+    </item>
+
+</menu>
